@@ -5,4 +5,4 @@ Tank Attack is a simple, Java-based game in which the user uses a game controlle
 #Setup
 The .jar file should not be moved from the folder. Simply click on it and wait for it to launch. Plug in a game controller and play.
 
-####Note: This program has only been tested on a Mac with a Mac-compatible joystick controller (Logitech). Windows and Linux may be limited.
+####Note: This program has only been tested on a Mac with a Mac-compatible joystick controller (Logitech). Compatibility with Windows and Linux may be limited.
